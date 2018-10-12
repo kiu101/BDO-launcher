@@ -1,0 +1,10 @@
+﻿<Window x:Name="configsWindow" x:Class="BDO_Launcher.configs"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BDO_Launcher"
+        mc:Ignorable="d"
+        Title="configs" Height="315.89" Width="204.025">
+    <Grid Background="#FF1E1E1E"/>
+</Window>
